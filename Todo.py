@@ -1,5 +1,5 @@
 """
-[19:38, 3/26/2020] Adarsh Psit: readFile(): reads a file from args #1
+readFile(): reads a file from args #1
 formatString(): do tasks like StringSlicing and returns a Dictionary #2
 modifyInput(): accepts a dictionary and returns a list of dictionaries
 
@@ -9,7 +9,7 @@ showSearchTodoByEvent(): prints all todo's according to entered events
 showByStatus(): prints todo's according to entered status
 addTodo(): adds new event to the file object
 deleteTodoByEvent(): removes eneterd event from the file object
-[19:38, 3/26/2020] Adarsh Psit: file name input: args
+file name input: args
 
 
 readFile -> File content list
